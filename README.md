@@ -1,4 +1,5 @@
-##NLP Checkpoint
+**NLP Checkpoint**
+
 This checkpoint focused on applying unsupervised machine learning techniques to analyze and interpret data. The tasks centered around three key areas: dimensionality reduction using Principal Component Analysis (PCA), clustering analysis with silhouette score interpretation, and creating insightful visualizations to illustrate results.
 
 Using the provided dataset (sensor_data.csv), I implemented PCA to reduce the data's dimensionality while preserving as much variance as possible. This step simplified the data and made it more manageable for subsequent analysis. Next, I performed clustering analysis to group similar data points, using metrics like silhouette scores to evaluate the quality and cohesion of the clusters.
